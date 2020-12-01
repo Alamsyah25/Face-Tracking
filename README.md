@@ -1,8 +1,8 @@
 # Face-Tracking
 Real Time Face Tracking with in Python with OpenCV
 
-# install OpenCV
+## install OpenCV
 pip install opencv-python
 
-# install numpy
+## install numpy
 pip install numpy
